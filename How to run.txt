@@ -1,0 +1,7 @@
+PDS_Compute_MTF('slit H 038ms 40W 25.575 centre f-1800_RGBcal2_crop.tif', roi)
+
+Where:
+
+roi = [157,202,355,537]
+
+roi = np.asarray(roi)
